@@ -1,0 +1,31 @@
+.popTable {
+  margin: 0 auto;
+  border: 1px solid #000000;
+}
+
+.tableTitle {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.ad {
+  background-color: #50c08e;
+  color: #ffffff;
+}
+
+.pop {
+  background-color: #50c08e;
+  color: #ffffff;
+}
+
+.year {
+  background-color: #eff7ff;
+  width: 60px;
+}
+
+.value {
+  background-color: #eff7ff;
+  width: 110px;
+  text-align: right;
+  letter-spacing: 0.05em;
+}

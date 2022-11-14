@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "01G5BM3D2NCGR3N2AA6TNFAKHA",
+      "text": "やること１",
+      "done": false
+    },
+    {
+      "id": "01G5BM3HYYJGKSJJ028S02M13E",
+      "text": "やること２",
+      "done": false
+    },
+    {
+      "id": "01G5BM3P9Y603TSCR6PE13NPKC",
+      "text": "やること３",
+      "done": false
+    }
+  ]
+}
